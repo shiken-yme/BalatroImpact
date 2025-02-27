@@ -1,0 +1,15 @@
+{
+    "id": "impact",
+    "name": "Balatro Impact",
+	"display_name": "Impact",
+    "author": ["Yme"],
+    "description": "Includes a multitude of Genshin Impact-inspired Jokers and cards.",
+    "prefix": "Impact",
+    "main_file": "src/impact.lua",
+    "priority": 73,
+    "badge_colour": "A766ED",
+	"version": "0.0.0",
+    "dependencies": [
+        "Steamodded (>=1.0.0~ALPHA-1225a)"
+    ]
+}
